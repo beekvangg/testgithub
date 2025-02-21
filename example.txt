@@ -1,7 +1,0 @@
-Hello, world!
-This is a simple text file.
-It contains multiple lines of text.
-Each line is separated by a newline character.
-
-Feel free to add more content to this file.
-This is just an example to get you started.
